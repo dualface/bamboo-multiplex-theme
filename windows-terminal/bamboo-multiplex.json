@@ -1,0 +1,27 @@
+{
+  "schemes": [
+    {
+      "name": "Bamboo Multiplex",
+      "background": "#232923",
+      "foreground": "#ece1c0",
+      "cursorColor": "#fff8f0",
+      "selectionBackground": "#5a5e5a",
+      "black": "#171f17",
+      "red": "#dc4f62",
+      "green": "#81af58",
+      "yellow": "#ceba49",
+      "blue": "#409cdc",
+      "purple": "#a09af8",
+      "cyan": "#68baae",
+      "white": "#ece1c0",
+      "brightBlack": "#5a5e5a",
+      "brightRed": "#dc4f62",
+      "brightGreen": "#81af58",
+      "brightYellow": "#ceba49",
+      "brightBlue": "#409cdc",
+      "brightPurple": "#a09af8",
+      "brightCyan": "#68baae",
+      "brightWhite": "#fff8f0"
+    }
+  ]
+}
